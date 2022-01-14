@@ -29,6 +29,7 @@ global.APIs = { // API Prefix
   dhnjing: 'https://dhnjing.xyz',
   zeks: 'https://api.zeks.me',
   pencarikode: 'https://pencarikode.xyz',
+  bear: 'https://apikey-bear.herokuapp.com',
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
@@ -38,12 +39,15 @@ global.APIKeys = { // APIKey Here
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
+  'https://apikey-bear.herokuapp.com': 'KingOfBear',
+  'https://apikey-bear2.herokuapp.com': 'KingOfBear',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
 lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'KingOfBear'
+bearkey = 'KingOfBear'
 //xteam        MIMINETBOT
 namaig = 'https://instagram.com/drak_ipul123'
 namagithub = 'GAK ADA :)'
